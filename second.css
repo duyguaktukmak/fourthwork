@@ -1,0 +1,21 @@
+#cornflower{
+    color: cornflowerblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.darkblue{
+    color: darkblue;
+    font-weight: bolder;
+}
+
+}
+p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
